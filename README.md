@@ -1,4 +1,4 @@
-# Webscrap - Live Cricket Scores API
+# Live Cricket Scores API
 
 A simple web scraping project that fetches live cricket match scores from Cricbuzz and serves them via a FastAPI REST API.
 
