@@ -40,7 +40,7 @@ This project scrapes live cricket match data from the Cricbuzz website using Bea
 Run the FastAPI server:
 
 ```bash
-fastapi run dev main.py
+fastapi dev main.py
 ```
 
 The API will be available at `http://localhost:8000`.

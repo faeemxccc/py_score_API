@@ -1,0 +1,11 @@
+[project]
+name = "webscrap"
+version = "0.1.0"
+description = "A FastAPI-based web scraper for live cricket scores from Cricbuzz"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "beautifulsoup4>=4.14.3",
+    "fastapi[standard]>=0.128.0",
+    "pip>=25.3",
+]
